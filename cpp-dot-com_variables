@@ -10,7 +10,7 @@ using namespace std;
 int main()
 {
 	//declaring variables:
-	int a, b:
+	int a, b;
 	int result;
 	
 	//process:
